@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 In this project, let's build a **Github Popular Repos** by applying the concepts we have learned till now.
 
 ### Refer to the images below:
@@ -207,3 +208,6 @@ Use these files to complete the implementation:
 > - Don't change the component folder names as those are the files being imported into the tests.
 > - **Do not remove the pre-filled code**
 > - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
+=======
+# gitHubRepository
+>>>>>>> 97c4dfdffa7c22956f6c838631475552077b7a4b
